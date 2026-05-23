@@ -268,7 +268,7 @@ git push origin feature/AmazingFeature
 
 [![GitHub](https://img.shields.io/badge/GitHub-ajeetjain7-181717?style=for-the-badge&logo=github)](https://github.com/ajeetjain7)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet_Jain-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet_Jain-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajeet-jain-b8a658369/)
 
 </div>
 
