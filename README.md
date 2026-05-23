@@ -67,7 +67,6 @@ Built using **Python**, **Streamlit**, and **Scikit-learn**, this project demons
 
 </div>
 
-> Add screenshots inside the `screenshots/` folder.
 
 ---
 
