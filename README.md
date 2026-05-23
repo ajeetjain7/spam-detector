@@ -46,6 +46,23 @@ Spam Shield AI is a production-ready machine learning web application that class
 
 ---
 
+## 📸 **Screenshots**
+
+<div align="center">
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Spam Detection Result
+![Spam Result](screenshots/spam_result.png)
+
+### Ham Detection Result
+![Ham Result](screenshots/ham_result.png)
+
+</div>
+
+---
+
 ## 🛠️ **Tech Stack**
 
 <div align="center">
@@ -73,10 +90,6 @@ graph LR
     D --> E{Spam?}
     E -->|Yes| F[⚠️ Spam Alert]
     E -->|No| G[✅ Safe Message]
-
-
-</div>
-
 Processing Pipeline:
 Input: User types or pastes a message
 
