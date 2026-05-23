@@ -69,12 +69,12 @@ Spam Shield AI is a production-ready machine learning web application that class
 
 | Category | Technologies |
 |----------|--------------|
-| **Frontend** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **ML Framework** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **NLP Library** | ![NLTK](https://img.shields.io/badge/NLTK-00599C?style=flat-square&logo=python&logoColor=white) |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Deployment** | ![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Frontend** | Streamlit |
+| **ML Framework** | Scikit-learn |
+| **NLP Library** | NLTK |
+| **Data Processing** | Pandas, NumPy |
+| **Deployment** | Streamlit Cloud |
+| **Version Control** | Git, GitHub |
 
 </div>
 
@@ -82,14 +82,7 @@ Spam Shield AI is a production-ready machine learning web application that class
 
 ## 🧠 **How It Works**
 
-```mermaid
-graph LR
-    A[User Input] --> B[Text Preprocessing]
-    B --> C[TF-IDF Vectorization]
-    C --> D[Naive Bayes Model]
-    D --> E{Spam?}
-    E -->|Yes| F[⚠️ Spam Alert]
-    E -->|No| G[✅ Safe Message]
+### **Processing Flow:**
 
 Preprocessing:
 
