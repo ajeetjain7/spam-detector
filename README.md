@@ -90,8 +90,6 @@ graph LR
     D --> E{Spam?}
     E -->|Yes| F[⚠️ Spam Alert]
     E -->|No| G[✅ Safe Message]
-Processing Pipeline:
-Input: User types or pastes a message
 
 Preprocessing:
 
